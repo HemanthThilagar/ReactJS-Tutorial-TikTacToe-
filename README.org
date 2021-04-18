@@ -11,7 +11,7 @@ Here are the improvements listed in order of increasing difficulty:
 * Usage
 #+BEGIN_SRC sh
 git clone https://github.com/HemanthThilagar/ReactJS-Tutorial-TikTacToe.git
-cd react-tic-tac-toe
+cd ReactJS-Tutorial-TikTacToe
 npm install
 npm start
 #+END_SRC
